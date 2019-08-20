@@ -1,0 +1,17 @@
+.rockets section {
+    margin-bottom: 20px;
+    opacity: 0.9;
+}
+
+h2, p, span {
+    color: #000;
+}
+
+h2 {
+    font-size: 25px;  
+    font-weight: bold;
+}
+
+p {
+    font-weight: normal;
+}
